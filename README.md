@@ -8,7 +8,7 @@ O sistema foi dividido em várias classes para praticar os conceitos básicos de
 * **Moeda.java**: classe abstrata utilizada como base para as outras moedas.
 * **Real.java, Dolar.java e Euro.java**: classes que herdam de Moeda e fazem a conversão de valores.
 * **Cofrinho.java**: responsável por armazenar as moedas utilizando ArrayList.
-* **Menu.java**: classe principal com o menu interativo no console.
+* **Principal.java**: classe principal com o menu interativo no console.
 
 ## Conceitos aplicados
 Neste projeto foram utilizados:
